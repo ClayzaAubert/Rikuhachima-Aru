@@ -1,0 +1,32 @@
+{
+	"name": "rikuhachima-aru",
+	"version": "1.0.1-beta",
+	"restapi": "https://api.maelyn.my.id",
+	"status": "VVIP",
+	"description": "Whatsapp Bot dilengkapi dengan Games RPG, dan fitur lain2nya.",
+	"main": "index.js",
+	"type": "module",
+	"engines": {
+		"node": ">=20.0.0"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": {
+		"name": "Clayza Aubert",
+		"email": "clayzasc@gmail.com",
+		"number": "+6283161702509",
+		"url": "https://clayzaaubert.my.id"
+	},
+	"keywords": [
+		"whatsapp bot",
+		"bot wa",
+		"Aru bot",
+		"Rikuhachima Aru",
+		"Clayza Bot"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"baileys": "^6.7.2"
+	}
+}

@@ -1,0 +1,28 @@
+{
+  "repository_status": "THIS REPOSITORY IS DOCUMENTATION ONLY",
+  "project_name": "Rikuhachima Aru (WhatsApp Bot)",
+  "version": "1.0.1-beta",
+  "coder": "Clayza Aubert",
+  "status": "Private",
+  "youtube": "Clayza Aubert (https://youtube.com/@ClayzaAubert)",
+  "support_api": "Maelyn API (https://api.maelyn.my.id)",
+  "date": "5/16/2024",
+  "features": [
+    "Support MongoDB",
+    "Support Pairing & QR",
+    "Simple Code",
+    "Simple Interface",
+    "Simple Customization",
+    "Simple Schema Database",
+    "Simple Code Features",
+    "Auto Clear Sesi & Tmp",
+    "New Model RPG",
+    "Access Data Via Website",
+    "Custom Prefix",
+    "Dll."
+  ],
+  "notes": {
+    "en": "This WhatsApp Bot will focus on a new RPG feature. This RPG will use concepts inspired by many manhwa in circulation. We will make every effort to develop this feature and create something unique and different from what is already on the market.",
+    "id": "WhatsApp Bot ini akan berfokus pada fitur RPG baru. RPG ini akan menggunakan konsep yang terinspirasi dari banyak manhwa yang beredar. Kami akan berusaha semaksimal mungkin untuk mengembangkan fitur ini dan menciptakan sesuatu yang unik dan berbeda dari yang sudah ada di pasaran."
+  }
+}
