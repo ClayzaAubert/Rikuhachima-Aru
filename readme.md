@@ -8,11 +8,11 @@
  *  Simple Schema Database
  *  Simple Code Features
  *  Auto Clear Sesi & Tmp
- *  New Model RPG
+ *  New Model Mmorpg (story, Features, dll)
  *  Access Data Via Website
  *  Custom Prefix
- *  Auto Notifications Anime(otakudesu)
- *  Auto Notifications Comic(shinigami)
+ *  Auto Notifications Anime (otakudesu)
+ *  Auto Notifications Comic (shinigami)
  *  Dll.
  
 **Project is still under development**
