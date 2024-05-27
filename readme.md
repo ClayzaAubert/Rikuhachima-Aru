@@ -8,7 +8,7 @@
  *  Simple Schema Database
  *  Simple Code Features
  *  Auto Clear Sesi & Tmp
- *  New Model Mmorpg (story, Features, dll)
+ *  New Model MMORPG (story, Features, dll)
  *  Access Data Via Website
  *  Custom Prefix
  *  Auto Notifications Anime (otakudesu)
