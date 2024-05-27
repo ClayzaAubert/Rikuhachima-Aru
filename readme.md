@@ -11,6 +11,8 @@
  *  New Model RPG
  *  Access Data Via Website
  *  Custom Prefix
+ *  Auto Notifications Anime(otakudesu)
+ *  Auto Notifications Comic(shinigami)
  *  Dll.
  
 **Project is still under development**
